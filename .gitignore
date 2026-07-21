@@ -1,0 +1,6 @@
+.conda/
+
+data/
+!data/.gitkeep
+
+*__pycache__/
